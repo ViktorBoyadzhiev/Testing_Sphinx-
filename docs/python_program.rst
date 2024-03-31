@@ -20,10 +20,3 @@ python\_program.dummy\_program module
    :undoc-members:
    :show-inheritance:
 
-Module contents
----------------
-
-.. automodule:: python_program
-   :members:
-   :undoc-members:
-   :show-inheritance:

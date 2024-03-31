@@ -20,10 +20,3 @@ python\_program.general\_subblocks.subfunctions2 module
    :undoc-members:
    :show-inheritance:
 
-Module contents
----------------
-
-.. automodule:: python_program.general_subblocks
-   :members:
-   :undoc-members:
-   :show-inheritance:
