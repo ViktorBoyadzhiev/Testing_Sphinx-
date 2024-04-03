@@ -24,6 +24,7 @@ extensions = [
     'sphinx.ext.intersphinx',  # Link to other project's documentation (see mapping below)
     'sphinx.ext.viewcode',  # Add a link to the Python source code for classes, functions etc.
     'sphinx_simplepdf',
+    'sphinx.ext.imgconverter',
 ]
 
 autosummary_generate = True  # Turn on sphinx.ext.autosummary
